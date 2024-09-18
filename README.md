@@ -17,7 +17,7 @@
    <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cqft4dpapooqo4yjcmbscdl2ke&cover_image=true&theme=novatorem&show_offline=false&background_color=005151&interchange=false&bar_color=00a3a3&bar_color_cover=false"
       alt="Now Playing Spotify"
-      height="160"
+      height="100"
       />
    </a>
 </p>
